@@ -33,63 +33,23 @@
           Find healthy meal options based on number of calories
         </p>
         <br />
-        <p class="subtitle">
-          input the amount of calories you want to eat below
-        </p>
 
         <div class="columns">
-          <div class="dropdown ">
-          <div>
-            <div class="dropdown-trigger">
-              <input class="input is-large protein column" type="text" placeholder="Meal of the Day..." />
-            </div>
 
-            <div class="dropdown-menu" id="dropdown-menu" role="menu">
-              <div class="dropdown-content">
-                <hr class="dropdown-divider">
-                <a href="#" class="dropdown-item">
-                  Eggs
-                </a>
+          <form>
+            
+            <input class="input is-large" id="mealType" type="text" placeholder="Breakfast, Lunch, Dinner" />
 
-                <hr class="dropdown-divider">
-                <a class="dropdown-item">
-                  Chicken
-                </a>
-
-                <hr class="dropdown-divider">
-                <a href="#" class="dropdown-item ">
-                  Ice Cream
-                </a>
-
-                <hr class="dropdown-divider">
-                <a href="#" class="dropdown-item">
-                  Pizza
-                </a>
-
-                <hr class="dropdown-divider">
-                <a href="#" class="dropdown-item">
-                  Waffles
-                </a>
-              </div>
-            </div>
-          </div>
-
-
-
-
-
-          <input class="input is-large foodpref column" type="text" placeholder="Meal of the Day..." />
-          <input class="input is-large column" type="text" placeholder="Calorie Amount..." />
-        
-      
-          <button id="displayPage" class="button is-info">Normal</button>
-          <!-- <button class="button is-primary is-rounded in">Rounded</button> -->
+            <input class="input is-large foodpref" type="text" placeholder="Protein Choice" id="dayMeal" />
+            <input class="input is-large" id="kcal" type="text" placeholder="Calorie Amount..." />
+            <button type="button" id="displayPage" class="button is-info is-medium">
+              Search
+            </button>
+          </form>
         </div>
       </div>
-    </div>
   </section>
 
-  </div>
   <script src="./assets/js/script.js"></script>
 </body>
 
