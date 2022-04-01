@@ -19,13 +19,12 @@ There are no installations required for this application.
 
 ## Usage
 
+https://dev-dominick.github.io/daily-meal-planner/
 
 
 
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![alt text](./assets/images/daily-meal-planner.png)
 
 ## Credits
 
