@@ -23,6 +23,8 @@ form {
   width: 100%;
 }
 
+
+
 .title {
   font-size: 3rem;
 }
@@ -54,9 +56,6 @@ form {
   width: 50rem;
 }
 
-.dropdown-trigger {
-  display: block;
-}
 
 
 

@@ -2,8 +2,7 @@
 
 ## Description
 
-For this app, my group and I wanted to build something that would help generate meal ideas.  You can input the meal of the day, breakfast, lunch, or dinner, then select a protein choice and the amount of calories you want for that meal and it will generate meal ideas for you.  There is a text field for you to write a shopping list.  Then on the last page you can input your address or zip code and it will generate local grocery stores you can shop at.  When you select a store the mapquest api will give you a map with directions on how to get to the store you selected.
-
+A web application used to generate recipes for the user based on their inputs which are meal type, a protein type, and amount of calories. The user can then add their ingredients into a list and then find a grocery store close to their address. This project was the first collaborative project I had taken part in and learned a lot about merge conflicts in github.
 
 ## Table of Contents (Optional)
 
