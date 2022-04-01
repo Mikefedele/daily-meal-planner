@@ -19,6 +19,10 @@ h1 {
   background-size:cover;
 }
 
+form {
+  width: 100%;
+}
+
 
 
 .title {
