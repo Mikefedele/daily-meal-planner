@@ -24,7 +24,7 @@ https://dev-dominick.github.io/daily-meal-planner/
 
 
 
-![alt text](./assets/images/daily-meal-planner.png)
+![alt text](./assets/images/project-1-pic.png)
 
 ## Credits
 
